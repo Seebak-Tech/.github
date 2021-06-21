@@ -3,7 +3,7 @@
     "description": "Seebak Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "YAML"
     ],
     "filePatterns": [
         "package.json$",
